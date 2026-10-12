@@ -12,4 +12,4 @@ Machine Learning · NLP · Computer Vision
 - [Свойства 2D-материалов](https://github.com/mariakasimceva0305-ux/materials-bandgap-regression) — сравнение регрессионных моделей с разбиением по составам.
 - [Кхаси и эмбеддинги](https://github.com/mariakasimceva0305-ux/khasi-embedding-analysis) — порядок слов, permutation-контроли и суррогатный анализ.
 
-Методика, метрики и границы применимости описаны в каждом репозитории. Командные проекты обозначены отдельно.
+Методика, метрики и границы применимости описаны в каждом репозитории.
