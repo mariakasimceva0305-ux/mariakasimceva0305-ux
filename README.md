@@ -2,8 +2,6 @@
 
 Machine Learning · NLP · Computer Vision
 
-Работаю с обучением моделей, оценкой LLM и поиском. Изучаю устойчивость результатов и воспроизводимость экспериментов.
-
 ## Проекты
 
 - [Activation steering и обучаемый denoiser](https://github.com/mariakasimceva0305-ux/T-bank_research_2) — контролируемые эксперименты с вмешательствами в представления языковой модели.
