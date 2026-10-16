@@ -1,15 +1,13 @@
-# Мария Касимцева
+# Maria Kasimtseva
 
 Machine Learning · NLP · Computer Vision
 
-## Проекты
+## Projects
 
-- [Activation steering и обучаемый denoiser](https://github.com/mariakasimceva0305-ux/T-bank_research_2) — контролируемые эксперименты с вмешательствами в представления языковой модели.
-- [Память и выбор действий Transformer](https://github.com/mariakasimceva0305-ux/T-bank_research) — сравнение retrieval-политик и вариативности между обученными моделями.
-- [Классификация изображений](https://github.com/mariakasimceva0305-ux/intel-image-classification-research) — CNN и ResNet18, сравнение режимов transfer learning, контроль разбиения.
-- [RuBERT NER](https://github.com/mariakasimceva0305-ux/privacy-preserving-ner-llm-proxy) — дообучение для 30 типов сущностей, строгая оценка символьных интервалов.
-- [Прогноз пассажиропотока](https://github.com/mariakasimceva0305-ux/hack_metro) — командный транспортный хакатон, прогноз и сервис визуализации.
-- [Свойства 2D-материалов](https://github.com/mariakasimceva0305-ux/materials-bandgap-regression) — сравнение регрессионных моделей с разбиением по составам.
-- [Кхаси и эмбеддинги](https://github.com/mariakasimceva0305-ux/khasi-embedding-analysis) — порядок слов, permutation-контроли и суррогатный анализ.
-
-Методика, метрики и границы применимости описаны в каждом репозитории.
+- [Activation Steering](https://github.com/mariakasimceva0305-ux/T-bank_research_2) — learned denoising of GPT-2 activations; evaluating the trade-off between topic control and text quality.
+- [Transformer Agent Memory](https://github.com/mariakasimceva0305-ux/T-bank_research) — retrieval strategies for action selection and stability across independently trained models.
+- [Image Classification](https://github.com/mariakasimceva0305-ux/intel-image-classification-research) — CNN and ResNet18 training; comparing transfer learning strategies across random seeds.
+- [RuBERT NER](https://github.com/mariakasimceva0305-ux/privacy-preserving-ner-llm-proxy) — fine-tuning for 30 entity types with exact-span evaluation.
+- [Passenger Flow Forecasting](https://github.com/mariakasimceva0305-ux/hack_metro) — transport hackathon team project: hourly forecasts and a visualization service.
+- [2D Materials](https://github.com/mariakasimceva0305-ux/materials-bandgap-regression) — band gap prediction with regression models and composition-grouped validation.
+- [Khasi Embeddings](https://github.com/mariakasimceva0305-ux/khasi-embedding-analysis) — word-order analysis using permutation tests and surrogate time series.
